@@ -10,3 +10,4 @@ Hosted using GitHub Pages.
 - Contact section
 
 ## Live Site
+https://github.com/inaya-09/inaya-portfolio.git
